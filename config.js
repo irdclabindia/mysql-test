@@ -24,7 +24,7 @@ nconf
   // 2. Environment variables
   .env([
     'DATA_BACKEND',
-    'GCLOUD_PROJECT',
+    'GOOGLE_CLOUD_PROJECT',
     'INSTANCE_CONNECTION_NAME',
 	'MYSQL_HOST',
     'MYSQL_USER',
@@ -40,7 +40,7 @@ nconf
     // configure the appropriate settings for each storage engine below.
     // If you are unsure, use datastore as it requires no additional
     // configuration.
-    DATA_BACKEND: 'datastore',
+    DATA_BACKEND: 'cloudsql',
 
     // This is the id of your project in the Google Cloud Developers Console.
     GCLOUD_PROJECT: '',
