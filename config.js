@@ -24,7 +24,7 @@ nconf
   // 2. Environment variables
   .env([
     'DATA_BACKEND',
-    'GOOGLE_CLOUD_PROJECT',
+    'GCLOUD_PROJECT',
     'INSTANCE_CONNECTION_NAME',
 	'MYSQL_HOST',
     'MYSQL_USER',
