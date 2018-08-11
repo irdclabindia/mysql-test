@@ -1,5 +1,5 @@
 {
-  "GOOGLE_CLOUD_PROJECT": "frescosmart-206812",
+  "G_CLOUD_PROJECT": "frescosmart-206812",
   "DATA_BACKEND": "cloudsql",
   "MYSQL_USER": "root",
   "MYSQL_PASSWORD": "frescoSmart",
